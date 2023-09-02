@@ -10,7 +10,7 @@
 
 - 🤞 I am currently focusing on **JS frameworks, CSS frameworks.**
 
-- 🌱 I’m enrolled in **Computer Science**
+- 🌱 I’m enrolled in **Computer Science**.
 
 - 📫 How to reach me [wajahathuss17@gmail.com](https://www.linkedin.com/in/wajahathussain17/)
 
